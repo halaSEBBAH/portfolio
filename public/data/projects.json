@@ -1,0 +1,42 @@
+[
+    {
+        "id": "recAGJfiU4CeaV0HL2",
+        "order": 4,
+        "title": "NLP Developer / Full Stack Web Developer",
+        "dates": "July - August 2018",
+        "duties": [  
+            " A web application for simulating phishing attacks using tools : ASP.net ,C# , SQL server , Bootstrap"
+        ],
+        "company": "Ministery of Economy and finance"
+    },
+      {
+        "id": "recAGJfiU4CeaV0HL",
+        "order": 3,
+        "title": "NLP Developer / Full Stack Web Developer",
+        "dates": "July - September 2019",
+        "duties": [
+          " a plateform to parse and score resumes according to jobs metric, with machine learning, natural language processing, and rule-based algorithms using python,nltk , spacy, scikit- learn, django ,mongodb s,elasticsearch"
+        ],
+        "company": "NOVANCY ONE"
+      },
+      {
+        "id": "recIL6mJNfWObonls",
+        "order": 2,
+        "title": "Back-End Developer",
+        "dates": "March - July 2020",
+        "duties": [
+          "Back end Collaborator in a B2B eCommerce using SAP Hybris , Java , Spring , Gitlab , Jenkins , Jira"
+        ],
+        "company": "SQLI"
+      },
+      {
+        "id": "rec61x18GVY99hQq5",
+        "order": 1,
+        "title": "Full-Stack Developer",
+        "dates": " January - March 2021",
+        "duties": [
+          "Implementing a react web app for an intern project","ggg"
+        ], 
+        "company": "ACENTIUM"
+      }
+]

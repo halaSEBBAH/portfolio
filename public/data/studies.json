@@ -1,0 +1,23 @@
+[
+    {
+        "id": "recAGJfiU4CeaV0HL2",
+        "order": 4,
+        "title": "Software engineering",
+        "dates": "Septembre 2017 - August 2020",
+        "duties": [  
+          "..."
+        ],
+        "school": "ENSIAS"
+      },
+      {
+        "id": "recAGJfiU4CeaV0HL",
+        "order": 3,
+        "title": "Mathematics / Physics",
+        "dates": "Septembre 2015 - August 2017",
+        "duties": [
+          "Preparatory classes for engineering schools",
+          "2 years studies including many subjects such as mathematics , statics , physics and algorithmy"
+        ],
+        "school": "Lycée Moulay El Hasssan"
+      }
+    ]
