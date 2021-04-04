@@ -9,8 +9,6 @@ function Experience() {
   const [value, setValue] = useState(0)
 
   const fetchJobs = async () => {
-    const reponse = await fetch("../data/experience.json")  
-    const newJobs = await reponse.json()
 
     fetch('data/experience.json'
       ,{
